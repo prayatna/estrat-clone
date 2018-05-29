@@ -2,8 +2,10 @@
     display: flex;
     margin-left: 250px;
     background-repeat: no-repeat;
-    background-position: bottom right;
+    background-size: 900px 600px;
+    background-position: 750px 70px;
     height:500px;
+
 }
 
 .flex-container>div{
@@ -14,36 +16,6 @@
     width: 50%;
 }
 
-.banner{
-    /*transform: translateX(-50px);*/
-    /*padding-left: 20px;*/
-
-}
-.banner-img {
-    height: 600px;
-    top: 100px;
-}
-
-/*.intro-container{*/
-    /*overflow-x: hidden;*/
-/*}*/
-
-/*.banner{*/
-    /*width: auto;*/
-    /*height: 600px;*/
-    /*position: absolute;*/
-    /*left: 60%;*/
-    /*top: 100px;*/
-    /*bottom: auto;*/
-/*}*/
-/*.text-ban{*/
-    /*position: absolute;*/
-    /*width: 40%;*/
-    /*left: 15%;*/
-    /*top:100px;*/
-    /*height: 200px;*/
-
-/*}*/
 
 .text-ban h4{
     text-transform: uppercase;

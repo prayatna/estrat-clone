@@ -11,6 +11,8 @@ class App extends Component {
                 <section >
                     <Intro/>
                 </section>
+                <section>
+                </section>
 
             </div>
         );

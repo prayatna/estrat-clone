@@ -10,9 +10,7 @@ const intro = () => {
                 <h4>Innovative Strategy World Class Delivery</h4>
                 <p>Accelerating your business transformation and Cloud journey.</p>
             </div>
-            <div className="banner">
-                {/*<img className="banner-img" src={banner}/>*/}
-            </div>
+           
         </div>
     )
 }
