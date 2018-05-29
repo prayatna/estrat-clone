@@ -6,7 +6,7 @@ class Logo extends Component {
     render() {
         return (
             <svg className="estrat-logo" width={this.props.width} height={this.props.height} version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"  x="0px" y="0px"
-	 viewBox="0 0 70 33.3" enable-background="new 0 0 70 33.3" space="preserve">
+	 viewBox="0 0 70 33.3"  space="preserve">
 <g>
 	<path fill="#212833" d="M31.6,24.1c-2-0.4-3.1-0.7-3.5-0.9c-0.3-0.2-0.5-0.4-0.5-0.8c0-0.3,0.2-0.6,0.5-0.8
 		c0.3-0.2,0.8-0.3,1.5-0.3c0.9,0,1.5,0.2,1.9,0.7c0.2,0.2,0.3,0.6,0.4,1h3.3c-0.1-1.5-0.7-2.6-1.7-3.3c-1-0.6-2.3-0.9-3.9-0.9
