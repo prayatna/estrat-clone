@@ -8,7 +8,7 @@ import manage from '../assets/manage.png';
 const introInfo = () => {
     return (
         <div className="slanted">
-            Footer
+            &nbsp;
             <div className="flex-container">
                 <div>
                     <img className="flex-thumb" src ={consult} alt="consult"/>
