@@ -1,0 +1,57 @@
+
+.slanted {
+    background: #114E6F;
+    transform: skew(0,1deg);
+    color: #ffffff;
+    height: 100vh;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: center;
+}
+
+.flex-container>div {
+    /*background-color: darkblue;*/
+    margin: 50px;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+
+}
+.slanted div h4{
+    text-transform:uppercase;
+    font-weight: 100;
+}
+
+.slanted div p{
+    font-size: 14px;
+    font-weight: 100;
+}
+
+.green-style{
+    color: #78C276;
+    text-decoration: underline;
+}
+
+.flex-thumb{
+    height: 35%;
+}
+
+
+/*.slanted ul {*/
+    /*list-style-type: none;*/
+    /*margin:0;*/
+    /*padding: 30px 0 0 0;*/
+/*}*/
+
+/*.slanted li{*/
+    /*display: inline-block;*/
+    /*margin-left: 40px;*/
+    /*padding: 15px;*/
+/*}*/
+
+/*.slanted:after {*/
+
+/*}*/

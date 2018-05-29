@@ -4,13 +4,13 @@ import banner from '../assets/banner.svg';
 
 const intro = () => {
     return (
-        <div className="flex-container" style ={ { backgroundImage: "url("+banner+")" } } >
+        <div className="banner-container" style ={ { backgroundImage: "url("+banner+")" } } >
 
             <div className="text-ban">
                 <h4>Innovative Strategy World Class Delivery</h4>
                 <p>Accelerating your business transformation and Cloud journey.</p>
             </div>
-           
+
         </div>
     )
 }
